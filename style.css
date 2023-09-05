@@ -162,6 +162,10 @@ td{
     color: #666666;
     padding: 3px 10px;
 }
+.making{
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
 @media screen and (max-width: 768px){
     nav, .row-1, .row-2{
         flex-direction: column !important;
@@ -178,8 +182,4 @@ td{
     .row-2>p{
         width: 90%;
     }
-}
-.making{
-    text-align: center;
-    color:rgb(0, 0, 0);
 }
